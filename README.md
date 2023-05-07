@@ -79,11 +79,11 @@ Modifiez le script afin de duppliquer le serveur d'origine.
 
 -Appuyez sur i pour passer en mode Insertion.
 
-`````cp -R /root/mineserver "/root/$1"
+````cp -R /root/mineserver "/root/$1"
 sed -i "s/<MOTD_HERE>/$2/" "/root/$1/server.properties"
 cp /root/server.service "/etc/systemd/system/0$.service"
 sed -i "s/<25565>/$3/" "/root/$1/server.properties"
-systemctl daemon-reload`````
+systemctl daemon-reload````
 
 Vous pouvez désormais duppliquer votre serveur de base en modifiant le nom du fichier en argument 1, le nom du serveur in game en argument 2 et le port du serveur en argument 3 car deux serveurs ne peuvent être sur un même port. 
 
