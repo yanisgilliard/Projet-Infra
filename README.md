@@ -51,7 +51,7 @@ Avant que le serveur puisse démarrer, vous devrez accepter les termes de la lic
 
 Une fois cela réalisé vous pouvez redémarrer votre serveur Minecraft.Tapez la commande que vous avez utilisée auparavant pour démarrer le serveur Minecraft.
 
-`````java -Xmx1024M -Xms1024M -jar server.jar nogui```` 
+````` java -Xmx1024M -Xms1024M -jar server.jar nogui ```` 
 
 ### Paramètres de votre pare-feu 
 
