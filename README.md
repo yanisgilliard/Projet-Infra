@@ -92,3 +92,4 @@ Vous pouvez désormais duppliquer votre serveur de base en modifiant le nom du f
 `````bash newserver.sh "nom du fichier" "nom du serveur" "port utulisé"````` 
 
 Vous pouvez désormais duppliquer autant de serveurs que vous le souhaitez et y jouez ! 
+<iframe src="https://giphy.com/embed/111ebonMs90YLu" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thumbs-up-111ebonMs90YLu">via GIPHY</a></p>
